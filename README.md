@@ -233,7 +233,7 @@ Engineered complete CRM from scratch with Meta Webhooks & automated lead routing
 <div align="center">
 
 **Technical Intern @ ArcVisionX**  
-*Oct 2025 - Nov 2025*
+*Nov 2025 - Dec 2025*
 
 </div>
 
