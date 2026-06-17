@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Full-Stack+%26+AI+Engineer;11x+Hackathon+Winner;Building+Production-Ready+Systems;Automation+•+Backend+•+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Full-Stack+%26+AI+Engineer;9x+Hackathon+Winner;Building+Production-Ready+Systems;Automation+•+Backend+•+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,7 +43,7 @@ I build **production-ready systems end-to-end**: AI assistants, CRMs with real-t
 - Creating tools that eliminate manual work
 
 **Quick Stats**
-- **11x Hackathon Winner** (including international championships)
+- **9x Hackathon Winner** (including international championships)
 - Reduced manual work by **80%+** in production CRMs
 - Built systems serving **5,000+** records at scale
 - Based in **Bengaluru, India**
@@ -182,7 +182,7 @@ E-commerce marketplace for rural creators • AI-powered artisan training system
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
-**11x HACKATHON CHAMPION**
+**9x HACKATHON CHAMPION**
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
 
 </div>
